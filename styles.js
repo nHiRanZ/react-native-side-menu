@@ -24,7 +24,7 @@ export default StyleSheet.create({
     left: 0,
     top: 0,
     backgroundColor: 'transparent',
-    overflow: 'hidden',
+    overflow: 'visible',
   },
   overlay: {
     ...absoluteStretch,
